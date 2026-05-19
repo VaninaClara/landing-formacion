@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const whatsappUrl =
-  "https://wa.me/34600000000?text=Hola%20Sol%2C%20quiero%20recibir%20informaci%C3%B3n%20sobre%20la%20formaci%C3%B3n";
+  "https://wa.me/19545130107?text=Hola%20Sol%2C%20quiero%20recibir%20informaci%C3%B3n%20sobre%20la%20formaci%C3%B3n";
 
 const dates = [
   { month: "Septiembre", days: "5 y 6" },
